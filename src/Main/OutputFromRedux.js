@@ -1,6 +1,4 @@
-/**
- * Created by avvinash on 9/12/2017.
- */
+
 import React from 'react';
 
 class OutputFrom extends React.Component{
