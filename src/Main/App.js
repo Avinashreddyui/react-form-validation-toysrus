@@ -1,6 +1,4 @@
-/**
- * Created by avvinash on 9/10/2017.
- */
+
 import React from 'react';
 import FormContainer from './FormContainer';
 import OutputFrom from './OutputFromRedux'
